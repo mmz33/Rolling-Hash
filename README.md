@@ -1,3 +1,3 @@
 # Rolling-Hash
 
-Simple implementation of the rolling hash function.
+Rolling hash function implementation for strings.
